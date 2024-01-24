@@ -1,4 +1,4 @@
-FROM maven:3.8.5-openjdk-18
+FROM maven:3.8.7-openjdk-18
 # Used to be openjdk:8
 
 # Created by
